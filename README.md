@@ -7,3 +7,13 @@ This project is based on the dataset of F1 drivers where we are trying to conver
 Power BI Desktop Software
 Python for data Analyses
 ```
+
+# :octocat:Dashboard👇
+
+![Alt text](https://github.com/atharva07/F1-Driver-Data-Analysis-using-PowerBi/blob/main/F1%20Driver%20.png)
+
+<hr />
+<br />
+
+# <div align="center">Don't forget to leave a star ⭐️</div>
+
